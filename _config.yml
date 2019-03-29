@@ -115,8 +115,8 @@ disqus:
 
 #################################### global configure #######################################
 
-username: taoxincheng
-baseurl: /StrayBirds
+username: taohyson
+baseurl: /taohyson
 markdown: redcarpet
 safe: false
 highlighter: pygments
