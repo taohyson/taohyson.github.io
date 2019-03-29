@@ -65,7 +65,7 @@ nav:
 
 #Author config
 author:
-    name: minixalpha
+    name: taoxincheng
     email: xkzbeta@outlook.comment
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: 我是 minixalpha
@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: taoxincheng
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
